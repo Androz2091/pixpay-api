@@ -23,7 +23,7 @@ module.exports.loginOrRegister = (phoneNumber) => {
     return new Promise((resolve) => {
         fetch('https://prod-auth.pixpay.app/auth/check', {
             headers: {
-                'Content-Type': 'application/json charset=utf-8'
+                'Content-Type': 'application/json; charset=utf-8'
             },
             method: 'POST',
             body: JSON.stringify({
