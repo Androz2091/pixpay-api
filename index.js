@@ -17,7 +17,7 @@ const graphQL = (domain, token, payload) => {
     })
 }
 
-module.exports.graphQL = graphQL;
+module.exports.graphQL = graphQL
 
 module.exports.loginOrRegister = (phoneNumber) => {
     return new Promise((resolve) => {
