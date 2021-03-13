@@ -1,6 +1,6 @@
 # PixPay API
 
-This is a JavaScript client for the private PixPay API. This API won't be updated as I'm not using PixPay (but it is a great app and I wanted to try to reverse engineer a Flutter mobile app). You can read **[this tutorial](https://notfound.dev)** to learn how to reverse a Flutter application.
+This is a JavaScript client for the private PixPay API. This API won't be updated as I'm not using PixPay (but it is a great app and I wanted to try to reverse engineer a Flutter mobile app). You can read **[this tutorial](https://blog.androz2091.fr/reverse-eng-pixpay/)** to learn how I reverse engineered it!
 
 ## Usage
 
